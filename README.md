@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/kX7VzMz.png))
+![alt text](https://i.imgur.com/kX7VzMz.png)
 
 # Hello Folks!
 I currently live in Ottawa, ON.
