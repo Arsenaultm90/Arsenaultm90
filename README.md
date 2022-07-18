@@ -1,6 +1,7 @@
 <img align="left" alt="medium" src="https://i.imgur.com/kX7VzMz.png" />
 
 <br />
+<br />
 
 I currently live in Ottawa, ON.
 <br />
