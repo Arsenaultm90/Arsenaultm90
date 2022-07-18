@@ -13,4 +13,4 @@ I'm currently teaching myself how to be a better developer and learn new skills.
 <br />
 
 ### Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nextjs,nodejs,mongodb,)](https://skills.thijs.gg)
+(https://skills.thijs.gg/icons?i=js,html,css,react,nextjs,nodejs,mongodb,)
