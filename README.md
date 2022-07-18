@@ -2,7 +2,7 @@
 I'm a self-taught Front-End Web Developer looking for employment
 
 ### Contact Me
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][https://cheery-profiterole-268a09.netlify.app/]
+<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />(https://cheery-profiterole-268a09.netlify.app/)
 
 <br />
 
