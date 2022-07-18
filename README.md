@@ -1,4 +1,5 @@
 <img align="left" alt="medium" src="https://i.imgur.com/kX7VzMz.png" />
+<br />
 I currently live in Ottawa, ON.
 <br />
 I'm a self-taught Front-End Web Developer looking for employment.
