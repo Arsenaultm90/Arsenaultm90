@@ -6,7 +6,7 @@ I currently live in Ottawa, ON.
 <br />
 I'm a self-taught Front-End Web Developer looking for employment.
 <br />
-I'm currently teaching myself how to be a better developer and learn new skills.
+I'm currently teaching myself React frameworks and continuing to learn React itself.
 
 ## 🖼️ Portfolio & Social
 
@@ -19,3 +19,7 @@ I'm currently teaching myself how to be a better developer and learn new skills.
 ## 🔧 Languages and Tools
 
 ![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nextjs,nodejs,mongodb,)
+
+## Currently Reading
+<br />
+:book: Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug
