@@ -21,7 +21,7 @@ I'm currently learning about React and its frameworks which is what my portoflio
 
 ## Languages and Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nextjs,nodejs,mongodb,)
+![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,mongodb,)
 
 <br />
 
