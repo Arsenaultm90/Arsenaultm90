@@ -6,7 +6,7 @@ I currently live in Ottawa, ON.
 <br />
 I'm a self-taught Front-End Web Developer looking for employment.
 <br />
-I'm currently learning about React and its frameworks which is what my portoflio website is written with.
+I'm currently learning about React which is what my portoflio website is written with.
 
 <br />
 
