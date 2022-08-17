@@ -21,7 +21,7 @@ I'm currently learning about React which is what my portoflio website is written
 
 ## Languages and Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,typescript,jest)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,js,typescript,react,jest)
 
 <br />
 
