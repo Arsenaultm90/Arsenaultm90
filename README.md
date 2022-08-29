@@ -24,6 +24,3 @@ I'm currently learning about React which is what my portoflio website is written
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,sass,tailwind,jest)
 
 <br />
-
-## :book:Currently Reading
-Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug
