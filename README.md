@@ -11,7 +11,3 @@
 <br />
 
 ## Languages and Tools
-
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,sass,tailwind,jest)
-
-<br />
