@@ -2,7 +2,7 @@
 <h2><b>Welcome to my GitHub!</b></h2>
 A place where I store all my side projects. 
 
-Currently working on: Unity Game (Based on Souls series)
+Currently working on: 2D Godot Game (Soulsbourne)
 ![Imgur Gif](https://i.imgur.com/5v5TdUS.gif)
 </div>
 
